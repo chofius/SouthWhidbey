@@ -1,6 +1,6 @@
 SouthWhidbey
 ============
-mkdir ~/SouthWhidbey
+$ mkdir ~/SouthWhidbey
 # Creates a directory for your project called "SouthWhidbey" in your user directory
 
 cd ~/SouthWhidbey
